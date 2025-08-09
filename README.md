@@ -1,4 +1,4 @@
-# Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub!
+
 
 Meu nome é Ana Paula e estou iniciando minha jornada na área de **Análise e Desenvolvimento de Sistemas (ADS)**. 💻✨
 
@@ -21,14 +21,11 @@ Meu nome é Ana Paula e estou iniciando minha jornada na área de **Análise e D
 - Repositórios com anotações de estudo e desafios resolvidos
 - Evolução contínua no meu aprendizado 🚀
 
-<!--
+
 ## 🤝 Vamos conectar?
 
 Fique à vontade para me chamar ou trocar ideias:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- Email: seu.email@email.com
--->
----
+- [LinkedIn](https://www.linkedin.com/in/ana-paula-bastos)
 
-**Obrigada(o) por visitar meu perfil!** 😊
+
