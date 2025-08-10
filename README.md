@@ -1,12 +1,11 @@
 
 
-Meu nome é Ana Paula e estou iniciando minha jornada na área de **Análise e Desenvolvimento de Sistemas (ADS)**. 💻✨
+Meu nome é Ana Paula e estou iniciando minha jornada na área de **Análise e Desenvolvimento de Sistemas (ADS)**. 💻
 
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de ADS
 - 👶 Iniciante na área de tecnologia
-- 📚 Atualmente aprendendo lógica de programação
 - 💡 Buscando sempre aprender e evoluir
 - 🌱 Meus objetivos incluem: conseguir o primeiro estágio na área, aprender a programar, e construir uma base sólida de conhecimento em tecnologia.
 
