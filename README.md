@@ -8,7 +8,7 @@ Meu nome é Ana Paula e estou iniciando minha jornada na área de **Análise e D
 - 👶 Iniciante na área de tecnologia
 - 📚 Atualmente aprendendo lógica de programação
 - 💡 Buscando sempre aprender e evoluir
-- 🌱 Meus objetivos incluem: conseguir o primeiro estágio na área, contribuir com projetos open source e construir uma base sólida de conhecimento em tecnologia
+- 🌱 Meus objetivos incluem: conseguir o primeiro estágio na área, aprender a programar, e construir uma base sólida de conhecimento em tecnologia.
 
 ## 🛠️ Tecnologias e ferramentas que estou aprendendo
 
@@ -18,8 +18,7 @@ Meu nome é Ana Paula e estou iniciando minha jornada na área de **Análise e D
 ## 📈 Em breve...
 
 - Primeiros projetos publicados por aqui!
-- Repositórios com anotações de estudo e desafios resolvidos
-- Evolução contínua no meu aprendizado 🚀
+- Evolução contínua no meu aprendizado.
 
 
 ## 🤝 Vamos conectar?
