@@ -1,9 +1,11 @@
 
 
 Meu nome é Ana Paula e estou iniciando minha jornada na área de **Análise e Desenvolvimento de Sistemas (ADS)**. 💻
+Sou formada em Ciencias Contabeis e trabalho na area.
 
 ## 🚀 Sobre mim
 
+-   Analista Contabil Pleno a 8 anos.
 - 🎓 Estudante de ADS
 - 👶 Iniciante na área de tecnologia
 - 💡 Buscando sempre aprender e evoluir
