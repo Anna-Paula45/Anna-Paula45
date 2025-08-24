@@ -35,6 +35,8 @@ Fique à vontade para me chamar ou trocar ideias:
 - [LinkedIn](https://www.linkedin.com/in/ana-paula-bastos-1b8a13128?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
+
+
 #### 🚀 Skills
 
 #### 🖥️ Linguagens e Frameworks
