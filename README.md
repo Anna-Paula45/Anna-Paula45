@@ -1,10 +1,3 @@
-<img align="right" src="https://github.com/juciiara/readme-images/blob/main/estudante%20Tecnologia.png?raw=true" width="300" height="300">
-
-
-
-
-
-
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. 💻
 Sou formada em Ciencias Contabeis.
