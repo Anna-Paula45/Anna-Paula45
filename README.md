@@ -50,7 +50,6 @@ Fique à vontade para me chamar ou trocar ideias:
   <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
